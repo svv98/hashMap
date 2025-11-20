@@ -1,0 +1,22 @@
+{
+  "name": "hashmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node hashMap.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svv98/hashMap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svv98/hashMap/issues"
+  },
+  "homepage": "https://github.com/svv98/hashMap#readme"
+}
